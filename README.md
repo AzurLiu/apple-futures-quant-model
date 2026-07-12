@@ -12,6 +12,9 @@ With the northward shift of China's rain belts, the agricultural climate in majo
 
 This climatic mismatch creates robust weather-driven arbitrage and directional trading opportunities, which the **Corvus-AP.CZC** model is designed to exploit.
 
+### 📈 2025-2026 Price vs. Precipitation Trend
+![Price vs Precipitation Anomaly](apple_price_vs_precip.png)
+
 *Empirical Validation*: Backtest verification over this out-of-sample period (2025-01-01 to 2026-07-10) demonstrates the predictive power of these climatic signals, yielding a **0.7576 Sharpe ratio** and a **14.71% cumulative return** (net of transaction fees and slippage).
 
 ## Key Features
