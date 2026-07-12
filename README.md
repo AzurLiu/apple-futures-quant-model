@@ -4,6 +4,9 @@ Dystal Corvus-AP.CZC is a meteorological-driven machine learning quant model for
 
 By removing noisy price-based technical indicators and cross-commodity price signals, the model focuses purely on global climate oscillations and regional meteorological anomalies to forecast price dynamics.
 
+## Research Thesis & Motivation
+With the northward shift of China's rain belts, the agricultural climate in major apple producing regions has experienced significant volatility. Between 2025 and 2026, Chinese apple futures (CZCE: AP) prices showed a distinct and strong trend corresponding to local precipitation anomalies. This climatic mismatch creates robust weather-driven arbitrage and directional trading opportunities, which the **Corvus-AP.CZC** model is designed to exploit.
+
 ## Key Features
 - **Global ENSO Driver**: Incorporates monthly NOAA ERSSTv5 Niño 3.4 Sea Surface Temperature (SST) anomalies.
 - **Regional Precipitation Anomalies**: Calculates daily rainfall deviation relative to the historical monthly mean across 4 major Chinese apple production regions (Luochuan, Yantai, Tianshui, and Lingbao).
