@@ -17,6 +17,13 @@ This climatic mismatch creates robust weather-driven arbitrage and directional t
 
 *Empirical Validation*: Backtest verification over this out-of-sample period (2025-01-01 to 2026-07-10) demonstrates the predictive power of these climatic signals, yielding a **0.7576 Sharpe ratio** and a **14.71% cumulative return** (net of transaction fees and slippage).
 
+## Market Thesis & Quant Potential
+Why does **Dystal Capital** focus on the CZCE Apple Futures (AP) market? We believe this market holds highly underestimated alpha potential due to four distinct structural factors:
+- **Global Uniqueness & Institutional Shield**: CZCE Apple Futures is the world's first and only active fresh fruit futures contract. Standard commodity models (e.g. metals, energy) cannot be copy-pasted here, shielding the market from global multi-manager hedge fund crowds.
+- **Pure Supply-Side Weather Drivers**: Unlike global commodities tied to complex macroeconomics, interest rates, or geopolitics, Apple price dynamics are almost entirely supply-driven. The supply is determined by weather anomalies in a few precise growing coordinates during key crop phases, rendering localized climate data the ultimate proprietary alpha source.
+- **Climate Change as a Volatility Catalyst**: The northward shift of China's rain belts has introduced unprecedented climate volatility (e.g., severe frost, unseasonal autumn rains during harvest). Higher price volatility creates larger pricing discrepancies and option-like directional trading windows.
+- **Behavioral Mispricing (Retail Dominance)**: The CZCE AP contract is highly retail-dominated and speculative, leading to frequent emotional overreactions to weather news. Systematic models can exploit these behavioral deviations using objective physical weather measurements.
+
 ## Key Features
 - **Global ENSO Driver**: Incorporates monthly NOAA ERSSTv5 Niño 3.4 Sea Surface Temperature (SST) anomalies.
 - **Regional Precipitation Anomalies**: Calculates daily rainfall deviation relative to the historical monthly mean across 4 major Chinese apple production regions (Luochuan, Yantai, Tianshui, and Lingbao).
